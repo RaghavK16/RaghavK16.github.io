@@ -6,6 +6,10 @@ body, html {
 		background-color: #E3E3E3;
 }
 
+a {
+color: hotpink;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Lato", sans-serif !important;
 	font-weight: 900 !important;
