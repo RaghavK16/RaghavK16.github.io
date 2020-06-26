@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .wrapper {
-		background: #E3E3E3;
+		background: #222222;
 }
 
 .img-circle {
@@ -172,11 +172,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #myself h2 {
-	color: #5c595e;
+	color: #bd2121;
 }
 
 #myself .tag-line {
-	color: #498f80;
+	color: #2fd1ae;
 	font-size: 1.4em;
 }
 
