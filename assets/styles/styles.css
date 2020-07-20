@@ -234,8 +234,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footer-cta a:hover {
-	background: #fff;
-	color: rgba(5, 226, 215, 0.91);
+	background: rgb(255, 116, 61);
+	color: rgba(224, 19, 19, 0.91);
 	box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
 }
 
