@@ -6,6 +6,8 @@
 
 * Built mainly using HTML5, CSS3, Bootstrap-4 and JavaScript (Vanilla).
 
+* Website maintained on a daily basis.
+
 ## Contributing
 
 1. Fork it!
