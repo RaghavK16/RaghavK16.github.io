@@ -6,7 +6,9 @@
 
 * Built mainly using HTML5, CSS3, Bootstrap-4 and JavaScript (Vanilla).
 
-* Website maintained on a daily basis.
+* Simplistic UI and Design.
+
+* Website maintained on a regular basis.
 
 ## Contributing
 
